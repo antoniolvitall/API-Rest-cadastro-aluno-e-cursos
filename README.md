@@ -3,4 +3,4 @@ Nesse projeto utilizarei o Django Rest Framework para a criação de uma API em 
 
 Para visualizar o projeto você deverá ativar a VENV (venv/Scripts/Activate - para windows e venv/bin/activate - para macOS ou Linux)
 Depois disso executar o comando "python manage.py runserver" para executar o servidor localmente.
-Senha do admin "antonio" "apirest123456"
+Senha do admin "antonio" "apirest123456".
